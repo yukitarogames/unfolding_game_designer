@@ -13,8 +13,6 @@ Definitions only. Design guidance that uses these terms lives in:
 
 Terms are ordered so that each one only builds on terms above it.
 
-> **About examples:** Examples in this repository are illustrative only. They show what a principle means; they are **not** themes, mechanics, numbers, or structures to copy. See [README](README.md#principles-not-a-spec).
-
 ---
 
 ## Incremental Game
@@ -29,8 +27,6 @@ The thrill is that **you cover a lot of distance**: you get much stronger. There
 
 - As you play, more ways and more things are revealed, so the scope feels like it grows over time.
 - Generally, things refer to each other: what is revealed later helps with what came before.
-
-> **Example (illustrative only):** you start farming, then unlock fishing, and fishing helps your farming.
 
 ---
 
@@ -49,8 +45,6 @@ The thrill is that **you cover a lot of distance**: you get much stronger. There
 **A way to progress within a mechanic, defined by what drives it.**
 
 A mechanic starts with just a few of its engines and expands into more. Different engines push toward the same goal through different drivers.
-
-> **Example (illustrative only):** in a *kill → get gold → upgrade the killer* mechanic, gold is the engine. Adding research that improves the killer on a timer adds a second engine driven by time.
 
 ---
 
@@ -73,7 +67,7 @@ We're still in the same mechanic and still pushing the same goal, but there's a 
 
 - **Almost always introduces a new currency.**
 - **Almost always introduces a new verb.**
-- **Is usually separated from other mechanics** (e.g. its own tab); you don't usually see two mechanics on screen at the same time.
+- **Is usually separated from other mechanics**; you don't usually see two mechanics on screen at the same time.
 - **Starts from scratch.** At first it feels like starting a new game.
 - **Feeds back.** After some progress, it benefits your other mechanics (or one specific mechanic). You return with fresh energy and progress where you were stuck.
 
@@ -136,6 +130,6 @@ See [prestige.md](prestige.md).
 
 ## Automation
 
-**A way for the game to perform a repeated player action** (e.g. allocating by a ratio, auto-building).
+**A way for the game to perform a repeated player action**.
 
 See [playtesting.md](playtesting.md#automation).

@@ -1,6 +1,6 @@
 # Curves
 
-Reading and balancing curves. Terms are defined in [taxonomy.md](taxonomy.md). Examples are illustrative only, not things to copy.
+Reading and balancing curves. Terms are defined in [taxonomy.md](taxonomy.md).
 
 ---
 
@@ -20,8 +20,6 @@ When the curve shows a problem, fix it in one of two ways:
 
 Adjust an existing scaling value rather than adding a rule.
 
-> **Example (illustrative only):** enemy HP scales by 1.5× per wave; change it to 1.4×.
-
 ### 2. Unfold
 
 Introduce a new mechanic or an expansion of an existing mechanic.
@@ -30,7 +28,7 @@ When a curve gets [stale](taxonomy.md#stale), **the curve needs to break with an
 
 ### Don't: add special-case rules
 
-Don't introduce lots of new rules to fix the curve (e.g. a one-off change at a particular level). Incremental games have to be **legible**. If you chase a perfect curve, you'll make an illegible game where the player doesn't understand how things scale.
+Don't introduce lots of new rules to fix the curve. Incremental games have to be **legible**. If you chase a perfect curve, you'll make an illegible game where the player doesn't understand how things scale.
 
 ---
 

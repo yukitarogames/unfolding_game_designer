@@ -1,6 +1,6 @@
 # Promises
 
-How promises drive an unfolding incremental game. Terms are defined in [taxonomy.md](taxonomy.md). Examples are illustrative only, not things to copy.
+How promises drive an unfolding incremental game. Terms are defined in [taxonomy.md](taxonomy.md).
 
 What keeps a player going is **what's coming**. They have a goal they're striving towards.
 

@@ -7,8 +7,8 @@ Knowledge and taste for developing unfolding incremental games, written to guide
 This repository defines **what good looks like** without constraining what kind of game can emerge from it.
 
 - It holds **taxonomy and principles only**. It does not prescribe themes, mechanics, numbers, promise sizes, UI conventions, or structures.
-- **Examples are illustrative only.** They are marked as such and exist to clarify a principle. Do not copy them into a game.
-- Where a principle leaves something open (e.g. "a game needs a few sizes of promise"), the choice belongs to each game.
+- **No examples.** Concrete game examples (themes, mechanics, numbers) pull every new game toward the same shape, so this repository doesn't contain them. The only illustrations are analogies from outside games.
+- Where a principle leaves something open, the choice belongs to each game.
 
 ## Deliberately left to judgment
 

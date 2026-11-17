@@ -13,7 +13,7 @@ Choices are **downstream of unfolding**, and of mechanics having **allocation op
 **How much better is optimal play than "buy cheapest"?**
 
 - If buying the cheapest thing is optimal, or very close to optimal, the game has no real choices.
-- (Sometimes "buy cheapest" isn't even an option, e.g. when many things cost the same. The question still applies: how much does thinking beat not thinking?)
+- (Sometimes "buy cheapest" isn't even an option. The question still applies: how much does thinking beat not thinking?)
 
 ## Good choices
 

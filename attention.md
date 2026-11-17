@@ -1,6 +1,6 @@
 # Attention
 
-Principles for how often players check in. Terms are defined in [taxonomy.md](taxonomy.md). Examples are illustrative only, not things to copy.
+Principles for how often players check in. Terms are defined in [taxonomy.md](taxonomy.md).
 
 **Accommodate many lifestyles.** The game should be fun both for players who check in often and for players who check in rarely.
 
@@ -9,8 +9,6 @@ Principles for how often players check in. Terms are defined in [taxonomy.md](ta
 - Active players should progress more than players who check in rarely.
 - **The gap shouldn't be huge.**
 - **The cost of being away grows the longer you're away.**
-
-> **Example (illustrative only):** checking in every 5 minutes makes more progress than every 10 minutes, but not significantly more. It makes significantly more progress than checking in every 2 hours.
 
 ## Who to please
 
