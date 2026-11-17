@@ -11,11 +11,11 @@ A simulated playtest uses a bot that, ideally, simulates a player. It should pro
 
 ## Repetition
 
-The output should flag excessive repetition.
+**Repetition is fine.** What matters is whether the reward justifies it. The output should flag repetition that isn't justified by enough reward.
 
 ### Automation is one possible fix
 
-Automation is **not necessarily the fix**, but it's one of the possible fixes for excessive repetition.
+Automation is **not necessarily the fix**, but it's one of the possible fixes for repetition that isn't worth its reward.
 
 ---
 
