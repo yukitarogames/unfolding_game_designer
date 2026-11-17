@@ -22,3 +22,9 @@ Legibility is generally important. **Illegibility kills an incremental game twic
 The rules have to be legible enough for the player to make **calculations or estimations about how long things take**.
 
 This is why curves are fixed by changing constants or unfolding, not by special-case rules (see [curves.md](curves.md#fixing-a-curve)).
+
+---
+
+## Every element earns its place
+
+Each rule, resource, and item the player has to learn adds cognitive load. Each one should do a job no other element already does. More elements are not more depth.

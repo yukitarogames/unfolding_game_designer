@@ -2,10 +2,11 @@
 
 Principles for simulated playtests and what to look for. Terms are defined in [taxonomy.md](taxonomy.md).
 
-A simulated playtest uses a bot that, ideally, simulates a player. It should produce two things:
+A simulated playtest uses a bot that, ideally, simulates a player. It should produce:
 
-1. **The [curve](curves.md).**
-2. **Repetition counts:** how many times the bot did the same thing.
+1. **The [curve](curves.md), for the whole game and for each mechanic.** A new mechanic is a game with its own curve.
+2. **Promises on the curve,** marked by size, so the gaps between promises of each size are visible.
+3. **Repetition counts:** how many times the bot did the same thing.
 
 ---
 

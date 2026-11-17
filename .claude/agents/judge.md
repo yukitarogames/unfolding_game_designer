@@ -12,6 +12,8 @@ Every markdown file in the design repository (its path is given in your prompt),
 
 With playtest output, judge the curve and repetition counts against the principles, not only the design on paper.
 
+From round 2 on, you may also get the designer's list of findings it chose to override, with its reasons. You may still keep a finding as blocking, but you must respond to the designer's reason.
+
 ## How you judge
 
 - **Look for where the design fails.** You are not checking that it mentions the principles. A design that says it follows a principle is not evidence that it does.
@@ -31,5 +33,6 @@ With playtest output, judge the curve and repetition counts against the principl
    - which file and principle it fails,
    - why, from the player's point of view.
 3. **Notes:** minor issues, ambiguities, and details to settle during building or playtesting. These never block.
+4. **Out of scope:** serious problems outside what the brief covers. They never block, and the designer doesn't receive them.
 
 Give `PASS` when there are no blocking findings. Don't hold a design back for detail that building or playtesting will settle.

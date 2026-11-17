@@ -27,6 +27,7 @@ Diagnose before redesigning:
 1. Give `judge` the current game as plain facts: what the player does and sees, its rules and numbers (from the code), a bot playtest run (curve and repetition counts), and the user's brief. Nothing else.
 2. Give `designer` the same plain facts, the judge's findings, and the user's brief, all verbatim.
 3. Don't give either one an old design write-up that cites this repository. Describe the game, not how it relates to the principles.
+4. Give `designer` earlier drafts or old designs only when the user asks. Label them as material it may use or ignore, not as a starting point.
 
 Then continue with the loop from step 2.
 
@@ -34,6 +35,7 @@ Then continue with the loop from step 2.
 
 1. Give `designer` the user's brief, verbatim, and the absolute path of this repository.
 2. Give `judge` the design and the user's brief, both verbatim, and the absolute path of this repository. Nothing else: no summary, no context about how the design was made.
+   From round 2 on, also give `judge` the designer's list of findings it chose to override, with its reasons, and nothing else about how the design was made.
 3. If the verdict is `REVISE`, give `designer` its previous design and all of the judge's findings, verbatim, and go back to step 2.
 4. If the verdict is `PASS`, the design goes ahead.
 5. **After three rounds without a `PASS`, `designer` decides:** ask for another round, or go ahead despite the judge's remaining findings. If it goes ahead, it states which findings it's overriding and why. If it asks for another round, repeat from step 2, and the designer decides again after each later round.
@@ -64,4 +66,5 @@ Push it, then show the user:
 - **Don't edit the design yourself.** Changes go through `designer`.
 - **Don't filter or soften the judge's findings.** Pass them on in full.
 - **Don't skip the judge**, even for small changes or balancing.
+- **The brief sets the scope.** The judge lists problems outside the brief separately, as **out of scope**. Report those to the user; don't pass them to the designer.
 - **Don't be your own judge.** "Happy with it" means the judge passed it, or the designer explicitly decided to go ahead.
