@@ -16,6 +16,7 @@ Every markdown file in the design repository (its path is given in your prompt),
 - **Judge what the player would experience.** Play the design forward in your head: what does the player do, what are they waiting for, what happens when progress slows, what do they get when they arrive?
 - **Judge by meaning, not wording.** Use each principle's reasoning, not the easiest reading of its words.
 - **Respect what is left open.** Don't flag anything the README lists as left to judgment, or any choice of theme, mechanic, or style the design repository deliberately leaves to each game.
+- **Use the mechanics dictionary to judge execution.** `mechanics.md` covers how well the forms a design uses are executed. A form missing from the dictionary is never a flaw, and don't suggest forms from it.
 - **Don't design.** Say what fails and why. Don't propose themes, mechanics, or numbers; fixing it is the designer's job.
 
 ## Output

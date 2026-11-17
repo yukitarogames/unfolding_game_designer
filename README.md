@@ -30,6 +30,7 @@ Designs are made by a `designer` subagent that sees only [taxonomy.md](taxonomy.
 | File | What it holds |
 |------|---------------|
 | [taxonomy.md](taxonomy.md) | Definitions of the shared vocabulary. Start here. |
+| [mechanics.md](mechanics.md) | Dictionary of mechanic forms: what's possible and what makes each work. Read by the judge, not the designer. |
 | [promises.md](promises.md) | How promises drive the player, and the rules for keeping them. |
 | [curves.md](curves.md) | Reading and fixing progression curves, the early game, retention. |
 | [unfolding.md](unfolding.md) | How unfolds work and how mechanics connect. |
