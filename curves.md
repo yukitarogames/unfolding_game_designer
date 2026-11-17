@@ -34,6 +34,8 @@ When a curve gets [stale](taxonomy.md#stale), **the curve needs to break with an
 
 Don't introduce lots of new rules to fix the curve. Incremental games have to be **legible**. If you chase a perfect curve, you'll make an illegible game where the player doesn't understand how things scale.
 
+This is about patching the curve, not about a mechanic's own rules. Rules that interact are what make a mechanic worth playing (see [fun.md](fun.md)).
+
 ---
 
 ## The early game

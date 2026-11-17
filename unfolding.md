@@ -6,7 +6,7 @@ Principles for how unfolds work and how mechanics connect. Terms are defined in 
 
 ## A new mechanic is a game, not a power boost
 
-A new mechanic starts fresh and its beginning progresses fast, but it's still a game with its own curve and its own promises.
+A new mechanic starts fresh and its beginning progresses fast, but it's still a game with its own curve and its own promises. It should be [fun on its own](fun.md#each-mechanic-is-a-good-game-on-its-own).
 
 - **It needs its own pacing.** If the player opens most of the mechanic and gets most of its useful improvements right away, they get a jump in power and then very little.
 - **Its capacity opens slowly.** Space to work with should open gradually, and there should be more of it to open than seems necessary.

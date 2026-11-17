@@ -2,6 +2,7 @@
 
 Definitions only. Design guidance that uses these terms lives in:
 
+- [fun.md](fun.md): what makes a mechanic worth playing (comes first)
 - [promises.md](promises.md): how promises work and how to keep them
 - [curves.md](curves.md): reading and fixing curves, early game, retention
 - [unfolding.md](unfolding.md): how mechanics connect

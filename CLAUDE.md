@@ -4,7 +4,7 @@ This repository holds principles for unfolding incremental games. When you desig
 
 Two subagents do the work, each in a fresh context:
 
-- **`designer`** drafts and revises designs. It reads only `taxonomy.md` and what you give it.
+- **`designer`** drafts and revises designs. It reads only `taxonomy.md`, `fun.md`, and what you give it.
 - **`judge`** reviews designs, games, and playtest results against every file in this repository and returns `PASS` or `REVISE` with blocking findings and non-blocking notes.
 
 If `designer` and `judge` aren't available as agent types (for example, when this repository was attached to a session rather than opened as its root), spawn general-purpose subagents instead. Tell each one to read and follow `.claude/agents/designer.md` or `.claude/agents/judge.md` in this repository, ignoring the frontmatter.
@@ -24,12 +24,14 @@ Don't design or rebalance directly from your own reading of the principles.
 
 Diagnose before redesigning:
 
-1. Give `judge` the current game as plain facts: what the player does and sees, its rules and numbers (from the code), a bot playtest run (curve and repetition counts), and the user's brief. Nothing else.
+1. Give `judge` the current game as plain facts: what the player does and sees, its rules and numbers (from the code), a bot playtest run (curve, repetition counts, and decision gap), and the user's brief. Nothing else.
 2. Give `designer` the same plain facts, the judge's findings, and the user's brief, all verbatim.
 3. Don't give either one an old design write-up that cites this repository. Describe the game, not how it relates to the principles.
 4. Give `designer` earlier drafts or old designs only when the user asks. Label them as material it may use or ignore, not as a starting point.
 
 Then continue with the loop from step 2.
+
+The player's complaint is the main fact. If the user says the game is boring or a part is annoying, that's the problem to solve. Don't bury it under a list of rule violations.
 
 ## The loop
 
@@ -38,8 +40,8 @@ Then continue with the loop from step 2.
    From round 2 on, also give `judge` the designer's list of findings it chose to override, with its reasons, and nothing else about how the design was made.
 3. If the verdict is `REVISE`, give `designer` its previous design and all of the judge's findings, verbatim, and go back to step 2.
 4. If the verdict is `PASS`, the design goes ahead.
-5. **After three rounds without a `PASS`, `designer` decides:** ask for another round, or go ahead despite the judge's remaining findings. If it goes ahead, it states which findings it's overriding and why. If it asks for another round, repeat from step 2, and the designer decides again after each later round.
-6. **Hard cap: seven rounds.** After round seven, the designer must go ahead, listing the findings it's overriding and why.
+5. **After two rounds without a `PASS`, `designer` decides:** ask for another round, or go ahead despite the judge's remaining findings. If it goes ahead, it states which findings it's overriding and why. If it asks for another round, repeat from step 2, and the designer decides again after each later round.
+6. **Hard cap: four rounds.** After round four, the designer must go ahead, listing the findings it's overriding and why.
 
 The loop always ends with a decision and a design to build. Never stop without one.
 
@@ -47,7 +49,7 @@ The loop always ends with a decision and a design to build. Never stop without o
 
 Every design that goes ahead gets built and playtested:
 
-1. Build it and run the bot (curve and repetition counts).
+1. Build it and run the bots: the curve and repetition counts, plus the decision gap (a bot that plays well vs. one that always buys the cheapest thing).
 2. Give `judge` the current design, the playtest output, and the user's brief, verbatim.
 3. If the judge finds problems, the fix is a design change: it goes through the loop.
 
@@ -67,4 +69,6 @@ Push it, then show the user:
 - **Don't filter or soften the judge's findings.** Pass them on in full.
 - **Don't skip the judge**, even for small changes or balancing.
 - **The brief sets the scope.** The judge lists problems outside the brief separately, as **out of scope**. Report those to the user; don't pass them to the designer.
+- **Fun first, balance in playtesting.** The loop is for getting a design that's fun and holds together. Exact numbers get tuned after building, not across extra rounds.
+- **Talk to the user about the game, not the process.** While the loop runs, tell them what the design plays like. Round counts and verdicts can wait for the end.
 - **Don't be your own judge.** "Happy with it" means the judge passed it, or the designer explicitly decided to go ahead.
