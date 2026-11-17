@@ -21,6 +21,8 @@ These have no principle here on purpose. Decide them per game:
 
 ## How it's used
 
+> **Agents:** before designing or reviewing a game with this repository, read and follow [CLAUDE.md](CLAUDE.md).
+
 Designs are made by a `designer` subagent that sees only [taxonomy.md](taxonomy.md), and reviewed by a `judge` subagent that sees everything. The main agent runs the loop between them. See [CLAUDE.md](CLAUDE.md) and [.claude/agents/](.claude/agents/).
 
 ## Files

@@ -7,6 +7,8 @@ Two subagents do the work, each in a fresh context:
 - **`designer`** drafts and revises designs. It reads only `taxonomy.md` and the user's brief.
 - **`judge`** reviews designs against every file in this repository and returns `PASS` or `REVISE` with findings.
 
+If `designer` and `judge` aren't available as agent types (for example, when this repository was attached to a session rather than opened as its root), spawn general-purpose subagents instead. Tell each one to read and follow `.claude/agents/designer.md` or `.claude/agents/judge.md` in this repository, ignoring the frontmatter.
+
 ## The loop
 
 Use it for every new design and every design change, before writing code for it.
