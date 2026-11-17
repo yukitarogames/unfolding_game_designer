@@ -22,7 +22,7 @@ An opinion field marked _Open._ has no opinion recorded yet.
 
 ## Prestige forms
 
-See also [prestige.md](prestige.md) for when to introduce prestige at all.
+See also [prestige.md](prestige.md) for the principles.
 
 ### Currency prestige
 
