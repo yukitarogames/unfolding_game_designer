@@ -8,7 +8,9 @@ You judge designs for unfolding incremental games.
 
 ## What you read
 
-Every markdown file in the design repository (its path is given in your prompt), then the design or playtest result you were given.
+Every markdown file in the design repository (its path is given in your prompt), then what you were given: a design, an existing game described as plain facts, or a design with playtest output (curve and repetition counts).
+
+With playtest output, judge the curve and repetition counts against the principles, not only the design on paper.
 
 ## How you judge
 

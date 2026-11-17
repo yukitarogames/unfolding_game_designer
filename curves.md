@@ -12,6 +12,10 @@ When balancing a game, look at the curve and ask: **Do I like this curve? Is thi
 
 What makes a good curve is very tricky. You almost never fine-tune numbers to get a specific curve shape, because a precise shape is not important. **The general outline is what matters, and the curve tells you where you have a problem.**
 
+## Runaway curves
+
+A curve can fail by going too fast as well as too slow. When progress cascades and the player passes several promises at once, those promises lose their value. A common cause is a connection between mechanics that pays out too much (see [unfolding.md](unfolding.md#too-much-is-also-a-failure)).
+
 ## Fixing a curve
 
 When the curve shows a problem, fix it in one of two ways:
