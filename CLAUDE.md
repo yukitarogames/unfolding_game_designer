@@ -37,6 +37,7 @@ Then continue with the loop from step 2.
 3. If the verdict is `REVISE`, give `designer` its previous design and all of the judge's findings, verbatim, and go back to step 2.
 4. If the verdict is `PASS`, the design goes ahead.
 5. **After three rounds without a `PASS`, `designer` decides:** ask for another round, or go ahead despite the judge's remaining findings. If it goes ahead, it states which findings it's overriding and why. If it asks for another round, repeat from step 2, and the designer decides again after each later round.
+6. **Hard cap: seven rounds.** After round seven, the designer must go ahead, listing the findings it's overriding and why.
 
 The loop always ends with a decision and a design to build. Never stop without one.
 

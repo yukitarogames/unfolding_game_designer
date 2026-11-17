@@ -28,4 +28,6 @@ If you've had three rounds without a `PASS`, you decide:
 - **Ask for another round**, if you think another revision will fix what matters. Then revise.
 - **Go ahead**, if you think the design is ready to build and playtest despite the judge. List each finding you're overriding and why.
 
+**Hard cap: after round seven, you must go ahead.** No more rounds.
+
 Either way, end with a decision and a complete design. The point is a new version the developer can playtest.
