@@ -19,6 +19,10 @@ These have no principle here on purpose. Decide them per game:
 - **Endings:** not a thing in this repository. If a game needs one, it's a late-development decision.
 - **Failure modes:** there are many; this repository doesn't try to list them all.
 
+## How it's used
+
+Designs are made by a `designer` subagent that sees only [taxonomy.md](taxonomy.md), and reviewed by a `judge` subagent that sees everything. The main agent runs the loop between them. See [CLAUDE.md](CLAUDE.md) and [.claude/agents/](.claude/agents/).
+
 ## Files
 
 | File | What it holds |
