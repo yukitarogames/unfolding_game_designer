@@ -2,6 +2,16 @@
 
 Knowledge and taste for developing unfolding incremental games, written to guide the development of new ones.
 
+## Principles, not a spec
+
+This repository defines **what good looks like** without constraining what kind of game can emerge from it.
+
+- It holds **taxonomy and principles only**. It does not prescribe themes, mechanics, numbers, promise sizes, UI conventions, or structures.
+- **Examples are illustrative only.** They are marked as such and exist to clarify a principle. Do not copy them into a game.
+- Where a principle leaves something open (e.g. "a game needs a few sizes of promise"), the choice belongs to each game.
+
+## Files
+
 | File | What it holds |
 |------|---------------|
 | [taxonomy.md](taxonomy.md) | Definitions of the shared vocabulary. Start here. |

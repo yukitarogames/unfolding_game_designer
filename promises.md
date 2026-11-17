@@ -1,10 +1,10 @@
 # Promises
 
-How promises drive an unfolding incremental game. Terms are defined in [taxonomy.md](taxonomy.md).
+How promises drive an unfolding incremental game. Terms are defined in [taxonomy.md](taxonomy.md). Examples are illustrative only, not things to copy.
 
 What keeps a player going is **what's coming**. They have a goal they're striving towards.
 
-> Tell a kid, "If you count to 100, I'll give you a treat." Their willingness to count to 100 *next time* depends on the quality of the treat you give them. You don't tell them which treat, and you can vary it, but overall the treat has to be something they value.
+> **Analogy:** tell a kid, "If you count to 100, I'll give you a treat." Their willingness to count to 100 *next time* depends on the quality of the treat you give them. You don't tell them which treat, and you can vary it, but overall the treat has to be something they value.
 
 ## Promises are the meta engine
 
@@ -15,17 +15,17 @@ After the player has played for a while, their main goal becomes **getting to th
 
 ## Nouns: teaching what kind of promise it is
 
-A different noun means a different promise. "Count to 100 → a *treat*. Count to 1,000 → a *fun day* / a *gift*."
+A different noun means a different promise.
+
+> **Analogy:** "Count to 100 → a *treat*. Count to 1,000 → a *fun day*." Different noun, different kind of reward.
 
 If you're consistent about what kind of thing sits behind each noun, the player learns it and reacts appropriately.
 
-In the game, **the UI is the noun.** You should see when you'll get something new (that's the promise), and from where it sits in the UI and how it's organized, you know what type of promise it is: something big, something medium, or something small.
+In the game, **the UI is the noun.** The player should see that something new is coming (that's the promise), and from where it sits in the UI and how it's organized, know what kind of promise it is. A game needs a few sizes of promise; which sizes and which nouns is up to the game.
 
 ## Surprising contents, expected strength
 
-In an unfolding incremental game, the promise should be **a bit surprising**, but its strength (the *experience* it delivers) is something the player expects.
-
-> The player expects something that will give them an hour of fast curve and lots of new toys. They don't know which toys or exactly what they'll get, but they know roughly how valuable the thing behind the unlock is.
+In an unfolding incremental game, the promise should be **a bit surprising**, but its strength (the *experience* it delivers) is something the player expects. They don't know precisely what they'll get, but they know roughly how valuable the thing behind the unlock is.
 
 **You have to deliver that value consistently.** Otherwise, at some point players get bored, stop believing the thing they're working towards is meaningful, and leave.
 
@@ -44,11 +44,9 @@ After the game gets a bit slow and a bit boring, the player looks at when they'l
 
 The player should know **when** the next one is coming and **what they need to do** to get there.
 
-> "Clear stage 50 to unlock something." The player doesn't know what it is, but knows it's a new mechanic, because the UI taught them that mechanics are tabs and there's a tab with a lock on it.
-
 ### The contents can stay hidden
 
-The player doesn't need to know specifically what they're getting.
+The player doesn't need to know specifically what they're getting, only what kind of thing it is.
 
 ### Promises must be kept
 
@@ -60,7 +58,7 @@ A good promise is one where the player is taught that it's something big, and **
 
 ### Promises should be within reach
 
-A goal works as long as it isn't obscene ("you'll get there in 7 weeks"). See [Retention](curves.md#retention).
+A goal works as long as it isn't obscenely far away. See [Retention](curves.md#retention).
 
 ---
 
