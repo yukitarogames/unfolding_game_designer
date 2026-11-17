@@ -73,6 +73,14 @@ We're still in the same mechanic and still pushing the same goal, but there's a 
 
 ---
 
+## Minimum Viable Unfolding Incremental Game
+
+**3 [mechanics](#mechanic), each with at least 3 [expansions](#expansion).**
+
+Anything less is not yet an unfolding incremental game.
+
+---
+
 ## Promise
 
 **Something the player knows is coming: "once you have this, you will get something."**
