@@ -8,6 +8,8 @@ Definitions only. Design guidance that uses these terms lives in:
 - [legibility.md](legibility.md): why legibility matters and what it covers
 - [prestige.md](prestige.md): when and how to use prestige
 - [playtesting.md](playtesting.md): simulated playtests, repetition, automation
+- [choices.md](choices.md): meaningful vs. artificial choices
+- [attention.md](attention.md): active vs. occasional players
 
 Terms are ordered so that each one only builds on terms above it.
 
