@@ -52,6 +52,8 @@ The player doesn't need to know specifically what they're getting, only what kin
 
 Don't fail the player. Teach them that promises are kept.
 
+This isn't binary. A weak or unkept promise isn't a single catastrophe; it's a numbers game, with degrees of damage and churn. Basically: try to keep promises.
+
 ### A big promise is always big
 
 A good promise is one where the player is taught that it's something big, and **it's always something big**. Then it's very hard to stop playing, because reaching that spot unlocks something fun and consequential.

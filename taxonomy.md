@@ -4,6 +4,10 @@ Definitions only. Design guidance that uses these terms lives in:
 
 - [promises.md](promises.md): how promises work and how to keep them
 - [curves.md](curves.md): reading and fixing curves, early game, retention
+- [unfolding.md](unfolding.md): how mechanics connect
+- [legibility.md](legibility.md): why legibility matters and what it covers
+- [prestige.md](prestige.md): when and how to use prestige
+- [playtesting.md](playtesting.md): simulated playtests, repetition, automation
 
 Terms are ordered so that each one only builds on terms above it.
 
@@ -112,10 +116,24 @@ See [curves.md](curves.md).
 
 ## Legibility
 
-**The player can understand how things scale.**
+**The player can understand the game well enough to predict how long progress takes.**
 
-An incremental game has to be legible. Chasing a perfect curve with special-case rules makes it illegible (see [curves.md](curves.md#fixing-a-curve)).
+Covers both the game itself (UI, what there is to learn) and its mechanics and progression (how things scale). See [legibility.md](legibility.md).
 
 ## Stale
 
 **A curve that slows down predictably, with nothing happening for a long time.**
+
+---
+
+## Prestige
+
+**Resetting progress in exchange for something lasting.** Can apply to the whole game or to a specific mechanic.
+
+See [prestige.md](prestige.md).
+
+## Automation
+
+**A way for the game to perform a repeated player action** (e.g. allocating by a ratio, auto-building).
+
+See [playtesting.md](playtesting.md#automation).

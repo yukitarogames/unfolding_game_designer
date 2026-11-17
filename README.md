@@ -17,3 +17,7 @@ This repository defines **what good looks like** without constraining what kind 
 | [taxonomy.md](taxonomy.md) | Definitions of the shared vocabulary. Start here. |
 | [promises.md](promises.md) | How promises drive the player, and the rules for keeping them. |
 | [curves.md](curves.md) | Reading and fixing progression curves, the early game, retention. |
+| [unfolding.md](unfolding.md) | How unfolds work and how mechanics connect. |
+| [legibility.md](legibility.md) | Why legibility matters and what it covers. |
+| [prestige.md](prestige.md) | When and how to use resets and prestige. |
+| [playtesting.md](playtesting.md) | Simulated playtests: curves, repetition, automation. |
