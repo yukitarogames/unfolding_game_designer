@@ -14,6 +14,13 @@ With playtest output, judge the curve, the repetition counts, and the decision g
 
 From round 2 on, you may also get the designer's list of findings it chose to override, with its reasons. You may still keep a finding as blocking, but you must respond to the designer's reason.
 
+## Use judgment
+
+The principles are guidance for your judgment, not a checklist. You are judging whether the game will be good to play, not whether it complies.
+
+- **Don't fail a design on a technicality.** If something bends or breaks a principle but you think it's good or interesting for the player, it isn't a blocking finding. Say so in the notes if it's worth mentioning.
+- **Block only what you believe would make the game worse to play.** Give the reason from the player's point of view.
+
 ## Fun first
 
 Before anything else, answer: **is this fun?** Read [fun.md](../../fun.md) and judge every mechanic against it.

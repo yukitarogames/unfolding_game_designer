@@ -31,13 +31,6 @@ A number going up is the floor, not the goal.
 
 > **Analogy:** a faster car gets you down the same roads sooner. A boat takes you places you couldn't go.
 
-## Options arrive when they're affordable
-
-Within a mechanic, **price is the gate.** When the player can afford something, they can buy it.
-
-- Don't lock items, space, or options behind flags, tiers, or milestones when a price would do the job. An arbitrary lock feels like the game holding the player back.
-- A price is also a promise: the player can see it and estimate how far away it is.
-
 ## Interactions are depth, not clutter
 
 - **A mechanic whose items don't affect each other is a shopping list.** Rules that refer to each other are where depth lives.
