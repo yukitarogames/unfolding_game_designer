@@ -4,6 +4,31 @@ How promises drive an unfolding incremental game. Terms are defined in [taxonomy
 
 What keeps a player going is **what's coming**. They have a goal they're striving towards.
 
+> Tell a kid, "If you count to 100, I'll give you a treat." Their willingness to count to 100 *next time* depends on the quality of the treat you give them. You don't tell them which treat, and you can vary it, but overall the treat has to be something they value.
+
+## Promises are the meta engine
+
+After the player has played for a while, their main goal becomes **getting to the next promise** (or the next few promises).
+
+- **Be diligent about making and fulfilling promises** and you'll retain players, and they'll love the game.
+- **Get it wrong** and you'll lose players and get bad reviews.
+
+## Nouns: teaching what kind of promise it is
+
+A different noun means a different promise. "Count to 100 → a *treat*. Count to 1,000 → a *fun day* / a *gift*."
+
+If you're consistent about what kind of thing sits behind each noun, the player learns it and reacts appropriately.
+
+In the game, **the UI is the noun.** You should see when you'll get something new (that's the promise), and from where it sits in the UI and how it's organized, you know what type of promise it is: something big, something medium, or something small.
+
+## Surprising contents, expected strength
+
+In an unfolding incremental game, the promise should be **a bit surprising**, but its strength (the *experience* it delivers) is something the player expects.
+
+> The player expects something that will give them an hour of fast curve and lots of new toys. They don't know which toys or exactly what they'll get, but they know roughly how valuable the thing behind the unlock is.
+
+**You have to deliver that value consistently.** Otherwise, at some point players get bored, stop believing the thing they're working towards is meaningful, and leave.
+
 ---
 
 ## Why a new mechanic is a big promise

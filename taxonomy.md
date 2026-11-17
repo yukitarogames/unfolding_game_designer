@@ -85,20 +85,31 @@ We're still in the same mechanic and still pushing the same goal, but there's a 
 
 ## Promise
 
-**What's coming: a visible goal the player is striving towards.**
+**Something the player knows is coming: "once you have this, you will get something."**
 
-_To sharpen: what exactly makes something a promise?_
-
+- A surprise is **not** a promise. Something exciting that happens unexpectedly doesn't count; the player has to know it's coming.
+- The player knows the **condition** and the **kind** of reward, not the exact reward.
 - Small promises can be simple goals, like a big upgrade the player knows is very strong.
 - **The big promises in an unfolding incremental game are [expansions](#expansion) and [new mechanics](#new-mechanic).**
+- Promises are the **meta engine** of the game: after playing for a while, the player's main goal is reaching the next promise or promises.
+
+> Tell a kid, "If you count to 100, I'll give you a treat." That's a promise. Whether they count to 100 next time depends on the quality of the treat.
 
 See [promises.md](promises.md).
 
+### Promise Noun
+
+**The word, or the place in the UI, that tells the player what kind of thing a promise holds.**
+
+> "Count to 100 and you get a *treat*. Count to 1,000 and you get a *fun day*." Different noun, different promise.
+
+If you're consistent about what kind of thing sits behind each noun, the player learns it and reacts appropriately. In the UI, the noun is where the promise sits and how it's organized, e.g. a locked tab means a new mechanic.
+
 ### Promise Size
 
-The player should learn what a **small, medium, and large** promise is.
+The player should learn what a **small, medium, and large** promise is, from its [noun](#promise-noun).
 
-_To define: what separates the sizes? What sits at each tier?_
+_To define: what sits at each size?_
 
 ---
 
